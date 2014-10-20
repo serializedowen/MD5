@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		48491ED019F5A69500E69FFC /* MD5 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MD5; sourceTree = BUILT_PRODUCTS_DIR; };
 		48491ED319F5A69500E69FFC /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		48491EDA19F5A78F00E69FFC /* MD5.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MD5.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				48491ED319F5A69500E69FFC /* main.c */,
+				48491EDA19F5A78F00E69FFC /* MD5.h */,
 			);
 			path = MD5;
 			sourceTree = "<group>";
